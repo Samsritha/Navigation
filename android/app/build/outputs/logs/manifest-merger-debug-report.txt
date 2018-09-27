@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/e255c63881ade2e5ec1e9db01e762054/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cfb77b2ce418e30145df5ba09ad2a019/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/3d1dae6d8a4274ee51ea1121f328894b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e03bfc58a899a98fe0db1d6a732fdaa6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/52e7cb74dce274b44f307cc16414739a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f383cd4fb6ea7dd68fc59fb9c6ea9597/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/4a5cf8b864bbb521cd2476ddfdbe3037/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a8d2013991a3987d7d5cfd95e7f3f855/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/a8af581178ba5b8ab80e57124405b49c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/85d40a8442206c7f17032982e233f80d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/9a4b102a5f9981718384f1e9065edc28/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/a5663eca96505e07278881083efb3423/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/77b1e3a6a85fb1a57d0f2d5a7a15464a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/bfaf14e81793b26ecaaf697c49be4959/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/5461bd0777f424735b955eb8d553b7fd/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/46f0a6b833bce138a468c7cee924d6a6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a40435d9be4d7da58adb084d7add8120/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/6d30b1a2e54855bbbde784399a6bd22e/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d047845183046f7767bac4f04e974464/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bfe6c03d7681b1aa7550be8f288b19e2/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:2:5-25
+		INJECTED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/e255c63881ade2e5ec1e9db01e762054/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/e255c63881ade2e5ec1e9db01e762054/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/e255c63881ade2e5ec1e9db01e762054/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/e255c63881ade2e5ec1e9db01e762054/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/bfaf14e81793b26ecaaf697c49be4959/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/bfaf14e81793b26ecaaf697c49be4959/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/5461bd0777f424735b955eb8d553b7fd/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/5461bd0777f424735b955eb8d553b7fd/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.dinspo.MainActivity
+ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/e255c63881ade2e5ec1e9db01e762054/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/e255c63881ade2e5ec1e9db01e762054/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cfb77b2ce418e30145df5ba09ad2a019/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cfb77b2ce418e30145df5ba09ad2a019/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/3d1dae6d8a4274ee51ea1121f328894b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/3d1dae6d8a4274ee51ea1121f328894b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e03bfc58a899a98fe0db1d6a732fdaa6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e03bfc58a899a98fe0db1d6a732fdaa6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/52e7cb74dce274b44f307cc16414739a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/52e7cb74dce274b44f307cc16414739a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f383cd4fb6ea7dd68fc59fb9c6ea9597/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f383cd4fb6ea7dd68fc59fb9c6ea9597/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/4a5cf8b864bbb521cd2476ddfdbe3037/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/4a5cf8b864bbb521cd2476ddfdbe3037/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a8d2013991a3987d7d5cfd95e7f3f855/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a8d2013991a3987d7d5cfd95e7f3f855/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/a8af581178ba5b8ab80e57124405b49c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/a8af581178ba5b8ab80e57124405b49c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/85d40a8442206c7f17032982e233f80d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/85d40a8442206c7f17032982e233f80d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/9a4b102a5f9981718384f1e9065edc28/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/9a4b102a5f9981718384f1e9065edc28/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/a5663eca96505e07278881083efb3423/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/a5663eca96505e07278881083efb3423/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/77b1e3a6a85fb1a57d0f2d5a7a15464a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/77b1e3a6a85fb1a57d0f2d5a7a15464a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/bfaf14e81793b26ecaaf697c49be4959/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/bfaf14e81793b26ecaaf697c49be4959/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/46f0a6b833bce138a468c7cee924d6a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/46f0a6b833bce138a468c7cee924d6a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a40435d9be4d7da58adb084d7add8120/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a40435d9be4d7da58adb084d7add8120/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/6d30b1a2e54855bbbde784399a6bd22e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/6d30b1a2e54855bbbde784399a6bd22e/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d047845183046f7767bac4f04e974464/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d047845183046f7767bac4f04e974464/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bfe6c03d7681b1aa7550be8f288b19e2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/dinesh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bfe6c03d7681b1aa7550be8f288b19e2/AndroidManifest.xml:20:5-44
+INJECTED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/dinesh/Documents/samsritha/dinspo/dinspo/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
